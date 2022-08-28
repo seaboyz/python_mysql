@@ -2,8 +2,9 @@ import mysql.connector
 
 config = {
     'user': 'root',
-    'password': 'Whoami*62303161',
+    'password': 'password',
     'host': 'localhost',
+    'database': 'test',
 }
 
 db = mysql.connector.connect(**config)
