@@ -11,4 +11,4 @@ def create_db():
     print(f"Database {DB_NAME} created")
 
 
-
+create_db()

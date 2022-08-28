@@ -20,3 +20,8 @@ pipenv install mysql_connector_python
 #### Create setup file
 ![](./images/setup.py.png)
 
+#### Run setup.py
+![](./images/run%20setup.py.png)
+
+#### Mysql_bench
+![](./images/mysql%20bench.png)
