@@ -14,5 +14,7 @@ pipenv install mysql_connector_python
 ![](./images/pipEnv.png)
 ![](images/terminal%20virtual%20env.png)
 
+#### Create connection file
+![](./images/database.py.png)
 
 
