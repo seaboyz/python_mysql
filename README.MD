@@ -1,3 +1,6 @@
+code gist
+https://gist.github.com/bradtraversy/5ea2fa59776ddc8cf45c536be65d4f86
+
 ####Create a virtual environment
 ```
 cd python_mysql
@@ -25,3 +28,9 @@ pipenv install mysql_connector_python
 
 #### Mysql_bench
 ![](./images/mysql%20bench.png)
+
+#### Add tables
+![](./images/tables.png)
+![](images/create%20tables.png)
+
+
